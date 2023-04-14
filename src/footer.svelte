@@ -82,7 +82,6 @@
 		}
 		.home-link {
 			font-family: "FactMedium";
-			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -138,7 +137,6 @@
 		}
 		.home-link {
 			font-family: "FactMedium";
-			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -194,7 +192,6 @@
 		}
 		.home-link {
 			font-family: "FactMedium";
-			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
