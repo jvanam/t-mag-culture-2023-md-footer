@@ -53,12 +53,8 @@
 			grid-template-columns: 1fr;
 			grid-template-rows: 1fr 1fr 1fr 1fr;
 		}
-		.home-link,
 		.section-links-wrapper {
 			width: 100vw;
-		}
-		.home-link {
-			height: 70px;
 		}
 		.section-link {
 			width: 100%;
@@ -69,20 +65,8 @@
 			justify-content: center;
 			text-align: center;
 		}
-		.home-link img {
-			position: absolute;
-			left: 50%;
-			top: 5px;
-			transform: translateX(-50%);
-			height: 70px;
-			width: auto;
-		}
-		.wrapper {
-			width: 100vw;
-		}
 		.home-link {
 			font-family: "FactMedium";
-			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -111,7 +95,6 @@
 			grid-template-rows: 1fr;
 			grid-template-columns: 1fr 1fr 1fr 1fr;
 		}
-		.home-link,
 		.section-links-wrapper {
 			height: 80px;
 			width: 100vw;
@@ -125,20 +108,8 @@
 			justify-content: center;
 			text-align: center;
 		}
-		.home-link img {
-			position: absolute;
-			left: 50%;
-			top: 5px;
-			transform: translateX(-50%);
-			height: 70px;
-			width: auto;
-		}
-		.wrapper {
-			width: 100vw;
-		}
 		.home-link {
 			font-family: "FactMedium";
-			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -167,7 +138,6 @@
 			grid-template-rows: 1fr;
 			grid-template-columns: 1fr 1fr 1fr 1fr;
 		}
-		.home-link,
 		.section-links-wrapper {
 			height: 90px;
 			width: 100vw;
@@ -181,24 +151,6 @@
 			justify-content: center;
 			text-align: center;
 		}
-		.home-link {
-			font-family: "FactMedium";
-			background-color: #000000;
-			position: relative;
-			height: 70px;
-		}
-		.home-link img {
-			position: absolute;
-			left: 50%;
-			top: 5px;
-			transform: translateX(-50%);
-			height: 65px;
-			width: auto;
-		}
-		.wrapper {
-			width: 100vw;
-		}
-
 		.section-link .subtitle {
 			font-family: "FactCondensedMedium";
 			line-height: 1.05;
@@ -209,6 +161,23 @@
 			text-transform: uppercase;
 			padding-bottom: 3px;
 		}
+	}
+	.wrapper {
+		width: 100vw;
+	}
+	.home-link {
+		font-family: "FactMedium";
+		background-color: #000000;
+		position: relative;
+		height: 70px;
+	}
+	.home-link img {
+		position: absolute;
+		left: 50%;
+		top: 5px;
+		transform: translateX(-50%);
+		height: 65px;
+		width: auto;
 	}
 	a {
 		text-decoration: none !important;
