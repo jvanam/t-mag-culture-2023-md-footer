@@ -242,7 +242,7 @@
 			left: 0;
 			width: 100%;
 			height: 3px;
-			background-color: #8fd59d;
+			background-color: #4cc26c;
 			opacity: 0;
 			transition: opacity 300ms, transform 300ms;
 			transform: translate3d(-100%, 0, 0);
@@ -370,7 +370,7 @@
 			left: 0;
 			width: 100%;
 			height: 3px;
-			background-color: #8fd59d;
+			background-color: #4cc26c;
 			opacity: 0;
 			transition: opacity 300ms, transform 300ms;
 			transform: translate3d(-100%, 0, 0);
