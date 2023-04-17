@@ -3,7 +3,7 @@
 		<div class="home-link">
 			<img
 				src="/handwriting-white.png"
-				alt="Handwritten title of the magazine issue, reads 'This Woman's Work'"
+				alt="Handwritten magazine issue title, reads 'This Woman's Work'"
 			/>
 		</div>
 	</a>
@@ -82,6 +82,7 @@
 		}
 		.home-link {
 			font-family: "FactMedium";
+			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -137,6 +138,7 @@
 		}
 		.home-link {
 			font-family: "FactMedium";
+			/* background: linear-gradient(180deg, #b9b9b9 0%, #e2e2e0 100%, #e2e2e0 100%); */
 			background-color: #000000;
 			position: relative;
 		}
@@ -179,28 +181,22 @@
 			justify-content: center;
 			text-align: center;
 		}
-		.home-link img {
-			position: absolute;
-			left: 50%;
-			top: 5px;
-			transform: translateX(-50%);
-			height: 90px;
-			width: auto;
-		}
-		.wrapper {
-			width: 100vw;
-		}
 		.home-link {
 			font-family: "FactMedium";
 			background-color: #000000;
 			position: relative;
+			height: 70px;
 		}
 		.home-link img {
 			position: absolute;
 			left: 50%;
 			top: 5px;
 			transform: translateX(-50%);
+			height: 65px;
 			width: auto;
+		}
+		.wrapper {
+			width: 100vw;
 		}
 
 		.section-link .subtitle {
@@ -223,6 +219,8 @@
 	}
 	.title.section2 {
 		font-family: "FactDisplayCondensedBold";
+		text-decoration: underline;
+		text-underline-offset: 3px;
 	}
 	.title.section3 {
 		font-family: "KipBoldItalic";
@@ -235,8 +233,7 @@
 			linear-gradient(360deg, #ffb23e 0%, #ffd364 100%);
 	}
 	.s2 {
-		background: linear-gradient(360deg, #1bc8bd 0%, #c3e16f 100%),
-			linear-gradient(360deg, #77ccb6 0%, #9ad88f 100%), #e8f96c;
+		background: linear-gradient(360deg, #1bc8bd 0%, #c3e16f 100%);
 	}
 	.s3 {
 		background: linear-gradient(180deg, #abcadd 0%, #ff9acf 100%),

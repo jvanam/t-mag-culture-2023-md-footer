@@ -4,12 +4,13 @@
 </script>
 
 <section class="wrapper">
+	<Footer />
 	<Header />
 	<!-- Not using an each block here since the styling is specific to each row  -->
 	<!-- and there are only 7 groups  -->
 
 	<!-- HIAM ABBASS -->
-	<div class="m-d-footer-row">
+	<div class="m-d-footer-row first">
 		<a
 			href="https://www.nytimes.com/2023/04/20/t-magazine/hiam-abbass-succession-daughters.html"
 			class="text-wrapper wrapper-abbass"
@@ -162,7 +163,6 @@
 			src="/Laurie Simmons _ Lena Dunham.jpg"
 		/>
 	</div>
-	<Footer />
 </section>
 
 <style>
@@ -176,6 +176,9 @@
 			flex-direction: column;
 			justify-content: space-evenly;
 			position: relative;
+		}
+		.m-d-footer-row.first {
+			border-top: none;
 		}
 		.newline {
 			display: inline-block;
@@ -222,6 +225,9 @@
 			justify-content: space-evenly;
 			align-items: center;
 			position: relative;
+		}
+		.m-d-footer-row.first {
+			border-top: none;
 		}
 		.newline {
 			display: block;
@@ -346,6 +352,9 @@
 			flex-direction: column;
 			justify-content: space-evenly;
 			position: relative;
+		}
+		.m-d-footer-row.first {
+			border-top: none;
 		}
 		.newline {
 			display: block;
