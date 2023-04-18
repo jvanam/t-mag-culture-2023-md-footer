@@ -1,5 +1,7 @@
 <section class="wrapper">
-	<a href="https://www.nytimes.com/section/t-magazine">
+	<a
+		href="https://www.nytimes.com/interactive/2023/04/20/t-magazine/women-artists-culture-mentors"
+	>
 		<div class="home-link">
 			<img
 				src="/handwriting-white.png"
