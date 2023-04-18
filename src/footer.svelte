@@ -10,6 +10,7 @@
 		</div>
 	</a>
 	<div class="section-links-wrapper">
+		<!-- REPLACE WITH SECTION LINK -->
 		<a href="https://www.nytimes.com/section/t-magazine">
 			<div class="section-link s1">
 				<div class="title section1">The Artist's Mind</div>
@@ -18,6 +19,7 @@
 				</div>
 			</div>
 		</a>
+		<!-- REPLACE WITH SECTION LINK -->
 		<a href="https://www.nytimes.com/section/t-magazine">
 			<div class="section-link s2">
 				<div class="title section2">Mothers & Daughters</div>
@@ -27,6 +29,7 @@
 				</div>
 			</div>
 		</a>
+		<!-- REPLACE WITH SECTION LINK -->
 		<a href="https://www.nytimes.com/section/t-magazine">
 			<div class="section-link s3">
 				<div class="title section3">In Tribute</div>
@@ -36,6 +39,7 @@
 				</div>
 			</div>
 		</a>
+		<!-- REPLACE WITH SECTION LINK -->
 		<a href="https://www.nytimes.com/section/t-magazine">
 			<div class="section-link s4">
 				<div class="title section4">Legends & Heirs</div>
