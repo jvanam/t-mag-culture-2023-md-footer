@@ -16,13 +16,10 @@
 			class="text-wrapper wrapper-abbass"
 		>
 			<span class="newline">
-				<span class="title">What </span>
-				<span class="name">Hiam Abbass</span>
-				<span class="title">and Her Daughters,</span>
+				<span class="name">How a 'Succession' Actress's Daughters</span>
 			</span>
 			<span class="newline indent-abbass">
-				<span class="name">Mouna Soualem and Lina Soualem, </span>
-				<span class="title">Have Learned From Each Other.</span>
+				<span class="name">Joined the Family Business</span>
 			</span>
 		</a>
 		<img
@@ -38,13 +35,11 @@
 			class="text-wrapper wrapper-neuwirth"
 		>
 			<span class="newline">
-				<span class="title">What </span>
-				<span class="name">Irene Neuwirth</span>
-				<span class="title">and her daughter,</span>
+				<span class="name">Geraldine and Irene Neuwirth are Still Learning</span
+				>
 			</span>
 			<span class="newline indent-neuwirth">
-				<span class="name">Geraldine Neuwirth, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">From Each Others' Crafts</span>
 			</span>
 		</a>
 		<img
@@ -60,13 +55,10 @@
 			class="text-wrapper wrapper-binnie"
 		>
 			<span class="newline indent-binnie">
-				<span class="title">What </span>
-				<span class="name">Imogen Binnie</span>
-				<span class="title">and her daughter,</span>
+				<span class="name">The Artist Who Helped Imogen Binnie</span>
 			</span>
 			<span class="newline">
-				<span class="name">Sybil Lamb, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">Develop Her Own Creative Identity</span>
 			</span>
 		</a>
 		<img
@@ -82,13 +74,10 @@
 			class="text-wrapper wrapper-nottage"
 		>
 			<span class="newline indent-nottage">
-				<span class="title">What </span>
-				<span class="name">Lynn Nottage</span>
-				<span class="title">and her daughter,</span>
+				<span class="name">How Lynn Nottage and Her Daughter </span>
 			</span>
 			<span class="newline">
-				<span class="name">Ruby Aiyo Gerber, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">Are Exploring Their Relationship in Writing</span>
 			</span>
 		</a>
 		<img
@@ -104,13 +93,10 @@
 			class="text-wrapper wrapper-dern"
 		>
 			<span class="newline">
-				<span class="title">What </span>
-				<span class="name">Laura Dern</span>
-				<span class="title">and her mother,</span>
+				<span class="name">What Laura Dern and Diane Ladd</span>
 			</span>
 			<span class="newline indent-dern">
-				<span class="name">Diane Ladd, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">Have Learned From Each Other</span>
 			</span>
 		</a>
 		<img
@@ -126,13 +112,10 @@
 			class="text-wrapper wrapper-nares"
 		>
 			<span class="newline">
-				<span class="title">What </span>
-				<span class="name">Jamie Nares</span>
-				<span class="title">and Her Daughters,</span>
+				<span class="name">Jamie Nares's Message to Her Daughters </span>
 			</span>
 			<span class="newline indent-nares">
-				<span class="name">Zarina Nares and Jahanara Nares, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">Was Simple: 'Go for It'</span>
 			</span>
 		</a>
 		<img
@@ -148,13 +131,10 @@
 			class="text-wrapper wrapper-dunham"
 		>
 			<span class="newline indent-dunham">
-				<span class="title">What </span>
-				<span class="name">Lena Dunham</span>
-				<span class="title">and her mother,</span>
+				<span class="name">Laurie Simmons and Lena Dunham </span>
 			</span>
 			<span class="newline">
-				<span class="name">Laurie Simmons, </span>
-				<span class="title">have learned from each other.</span>
+				<span class="name">Argue About Earrings, Not Art</span>
 			</span>
 		</a>
 		<img
@@ -414,7 +394,7 @@
 			left: 30px;
 		}
 		.indent-abbass {
-			margin-left: 115px;
+			margin-left: 200px;
 		}
 		.image-abbass {
 			width: 400px;
@@ -428,7 +408,7 @@
 			text-align: end;
 		}
 		.indent-neuwirth {
-			margin-left: 150px;
+			margin-left: 270px;
 		}
 		.image-neuwirth {
 			width: 500px;
@@ -478,11 +458,11 @@
 			transform: rotate(3.52deg);
 		}
 		.wrapper-nares {
-			right: 200px;
+			right: 70px;
 			text-align: end;
 		}
 		.indent-nares {
-			margin-left: 100px;
+			margin-left: 60px;
 		}
 		.image-nares {
 			width: 400px;
