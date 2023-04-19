@@ -39,7 +39,7 @@
 				>
 			</span>
 			<span class="newline indent-neuwirth">
-				<span class="name">From Each Others' Crafts</span>
+				<span class="name">From Each Others' Craft</span>
 			</span>
 		</a>
 		<img
