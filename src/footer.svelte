@@ -13,7 +13,7 @@
 		<!-- REPLACE WITH SECTION LINK -->
 		<a href="https://www.nytimes.com/section/t-magazine">
 			<div class="section-link s1">
-				<div class="title section1">The Artist's Mind</div>
+				<div class="title section1">The Artist’s Mind</div>
 				<div class="subtitle">
 					Four writers on what<br />drives, and complicates, creation.
 				</div>
@@ -35,7 +35,7 @@
 				<div class="title section3">In Tribute</div>
 				<div class="subtitle">
 					Five visual artists make portraits for T of<br />the late, great women
-					who've inspired them.
+					who’ve inspired them.
 				</div>
 			</div>
 		</a>

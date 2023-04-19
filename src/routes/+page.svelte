@@ -16,7 +16,7 @@
 			class="text-wrapper wrapper-abbass"
 		>
 			<span class="newline">
-				<span class="name">How a 'Succession' Actress's Daughters</span>
+				<span class="name">How a ‘Succession’ Actress’s Daughters</span>
 			</span>
 			<span class="newline indent-abbass">
 				<span class="name">Joined the Family Business</span>
@@ -35,11 +35,11 @@
 			class="text-wrapper wrapper-neuwirth"
 		>
 			<span class="newline">
-				<span class="name">Geraldine and Irene Neuwirth are Still Learning</span
+				<span class="name">Geraldine and Irene Neuwirth Are Still Learning</span
 				>
 			</span>
 			<span class="newline indent-neuwirth">
-				<span class="name">From Each Others' Craft</span>
+				<span class="name">From Each Other’s Craft</span>
 			</span>
 		</a>
 		<img
@@ -112,10 +112,10 @@
 			class="text-wrapper wrapper-nares"
 		>
 			<span class="newline">
-				<span class="name">Jamie Nares's Message to Her Daughters </span>
+				<span class="name">Jamie Nares’s Message to Her Daughters </span>
 			</span>
 			<span class="newline indent-nares">
-				<span class="name">Was Simple: 'Go for It'</span>
+				<span class="name">Was Simple: ‘Go for It’</span>
 			</span>
 		</a>
 		<img
